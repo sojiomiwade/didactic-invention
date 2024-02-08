@@ -1,0 +1,20 @@
+Use this repo to track system coding type problems. What do I consider system coding. Let's get chatGPT to help with that: 
+```
+"System coding" generally refers to the process of writing code for system-level software or low-level programming that interacts closely with a computer's hardware. This type of coding is often concerned with tasks such as managing hardware resources, interfacing with the operating system, and optimizing performance. System-level programming languages like C and assembly language are commonly used for this purpose.
+
+Here are some common areas where system coding is applied:
+
+1. **Operating Systems:** Developing the core components of an operating system, including the kernel, device drivers, and system utilities.
+
+2. **Device Drivers:** Writing software that enables the operating system to communicate with and control hardware devices such as printers, network cards, or graphics cards.
+
+3. **Embedded Systems:** Creating software for embedded systems, which are specialized computing devices designed for specific tasks, such as in automotive control systems, medical devices, or IoT (Internet of Things) devices.
+
+4. **Performance Optimization:** Writing code that is highly optimized for speed and efficiency, often at a low level, to ensure the system operates as efficiently as possible.
+
+5. **System Libraries:** Developing libraries and APIs that provide a foundation for higher-level programming, allowing developers to interact with system resources.
+
+6. **Kernel Development:** Working on the core of an operating system, dealing with memory management, process scheduling, and other fundamental aspects of system operation.
+
+Coding at the system level requires a good understanding of computer architecture, hardware, and operating system internals. It often involves working with low-level details, such as memory addresses and hardware registers. While system coding can be challenging, it is crucial for building robust and efficient software that interacts closely with the underlying hardware.
+```
